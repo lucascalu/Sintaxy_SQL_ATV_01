@@ -1,4 +1,24 @@
 # Sintaxy SQL ATV 01
+
+
+  <pre>
+Códigos SQL 
+    CREATE TABLE Pessoas (
+    PessoasID int,
+    PrimeiroNome varchar(255),
+    Sobrenome varchar(255),
+    Endereco varchar(255),
+    Cidade varchar(255)
+);
+*****************************************
+INSERT INTO Pessoas
+(PessoasID,PrimeiroNome,Sobrenome,Endereco,Cidade)
+VALUES (1, 'Luan' ,'Dias' , 'Rua zero1','Sumaré');
+***********************************************
+SELECT * FROM Pessoas;
+    
+  </pre>
+</pre>
 <br>
 
 <H1>
