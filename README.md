@@ -48,6 +48,7 @@ Critérios de Avaliação
 </h1>
 
 <pre>
+(C) Postar Github captura de tela mostrando nome da vm e usuario
 (C) Entregou link do GITHUB com código SQL na plataforma classrom
 (D) Tabela apresenta todas as informações solicitadas de maneira correta
 (D) Database foi nomeado corretamente
