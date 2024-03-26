@@ -92,6 +92,7 @@ Rating criteria
 </h1>
 
 <pre>
+(C) Postar Github captura de tela mostrando nome da vm e usuario
 (C) Provided GITHUB link with SQL code on the classrom platform
 (D) Table presents all requested information correctly
 (D) Database was named correctly
