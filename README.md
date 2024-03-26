@@ -8,7 +8,7 @@
 <br>
 
 <p>
- Cada aluno deverá criar uma base de dados com nome AlunosSala com uma tabela chamada alunos, com colunas id (AUTO_INCREMENT) , nome (VARCHAR) , sobrenome (VARCHAR) , idade (VARCHAR) e alimenta-la com as informações listadas através de um sistema SGBD.
+ Cada aluno deverá criar uma base de dados com nome AlunosSala com uma tabela chamada alunos, com colunas id (INT) , nome (VARCHAR) , sobrenome (VARCHAR) , idade (VARCHAR) e alimenta-la com as informações listadas através de um sistema SGBD.
 Cada aluno deverá posta o código fonte na plataforma Github e inserir o respectivo link na plataforma classrom 
   
 </p>
